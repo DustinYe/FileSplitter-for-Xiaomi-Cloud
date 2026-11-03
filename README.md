@@ -50,3 +50,9 @@ build.bat
 - `src/MainForm.cs` —— WinForms 图形界面
 - `src/app.manifest` —— DPI 感知应用清单
 - `test/EngineTest.cs` —— 核心逻辑自动化测试套件（覆盖拆分、校验、合并、字节翻转损坏、缺失、改名乱序、取消清理等场景）
+
+## 第三方依赖与开源许可
+
+- **依赖说明**：本项目为 100% 原生纯自主实现，**未引用、复制或依赖任何 GitHub 开源项目或第三方第三方库（无 NuGet / 无 npm）**。编译仅依赖 Windows 自带的 .NET Framework 系统程序集。
+- **开源协议**：本项目基于 [MIT License](LICENSE) 协议开源。
+
