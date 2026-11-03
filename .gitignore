@@ -1,0 +1,5 @@
+dist/
+*.old.exe
+*.prev.exe
+*.pdb
+*.merging
